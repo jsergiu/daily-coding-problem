@@ -1,0 +1,7 @@
+{
+	"python.pythonPath": "C:\\Users\\sergi\\scoop\\apps\\python\\current\\python.exe",
+	"python.linting.pylintEnabled": false,
+	"python.linting.enabled": true,
+	"python.linting.pylamaEnabled": false,
+	"python.linting.flake8Enabled": true
+}
